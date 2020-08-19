@@ -8,7 +8,7 @@ Predicting Airbnb price in Toronto using machine learning concepts
 
 
 ## Usage
-Open 3253_ML_TermProject.ipynb file via Google Collaborate or Jupyter Notebook
+Open [3253_ML_TermProject.ipynb](https://github.com/wesycool/ML-Airbnb-Price-Prediction/blob/master/3253_ML_TermProject.ipynb) file via Google Collaborate or Jupyter Notebook
 
 ## License
 MIT License
@@ -34,6 +34,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contributing
-Sixing Cao, Tian Gan, Yun Sum Wong, Tiffany Yeung
+Sixing Cao, Tian Gan, Yun Sum (Edmund) Wong, Tiffany Yeung
 
 This project was created by Edmund Wong - [check porfolio](https://wesycool-portfolio.herokuapp.com/)
