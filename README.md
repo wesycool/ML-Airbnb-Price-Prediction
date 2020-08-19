@@ -1,6 +1,8 @@
 # Machine Learning - Airbnb Price Prediction
 Predicting Airbnb price in Toronto using machine learning concepts
 
+Slide: [Predicting Toronto AirBnB Prices.pdf](https://github.com/wesycool/ML-Airbnb-Price-Prediction/raw/master/Predicting%20Toronto%20AirBnB%20Prices.pdf)
+
 ## Table of Contents
 * [Usage](#usage)
 * [License](#license)
@@ -8,7 +10,7 @@ Predicting Airbnb price in Toronto using machine learning concepts
 
 
 ## Usage
-Open [3253_ML_TermProject.ipynb](https://github.com/wesycool/ML-Airbnb-Price-Prediction/blob/master/3253_ML_TermProject.ipynb) file via Google Collaborate or Jupyter Notebook
+Open [3253_ML_TermProject.ipynb](https://github.com/wesycool/ML-Airbnb-Price-Prediction/blob/master/3253_ML_TermProject.ipynb) file via Google Colaboratory or Jupyter Notebook
 
 ## License
 MIT License
@@ -34,6 +36,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contributing
-Sixing Cao, Tian Gan, Yun Sum (Edmund) Wong, Tiffany Yeung
+- Sixing Cao 
+- Tian Gan
+- Yun Sum (Edmund) Wong 
+- Tiffany Yeung
 
 This project was created by Edmund Wong - [check porfolio](https://wesycool-portfolio.herokuapp.com/)
