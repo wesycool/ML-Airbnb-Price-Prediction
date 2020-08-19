@@ -38,7 +38,7 @@ SOFTWARE.
 ## Contributing
 - Sixing Cao 
 - Tian Gan
-- Yun Sum (Edmund) Wong 
+- [Yun Sum (Edmund) Wong](https://github.com/wesycool)
 - Tiffany Yeung
 
 This project was created by Edmund Wong - [check porfolio](https://wesycool-portfolio.herokuapp.com/)
