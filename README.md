@@ -1,4 +1,4 @@
-# ML Airbnb Price Prediction
+# Machine Learning - Airbnb Price Prediction
 Predicting Airbnb price in Toronto using machine learning concepts
 
 ## Table of Contents
