@@ -1,5 +1,5 @@
 # ML Airbnb Price Prediction
-Predicting Airbnb price in Toronto using machine l
+Predicting Airbnb price in Toronto using machine learning concepts
 
 ## Table of Contents
 * [Usage](#usage)
@@ -8,9 +8,7 @@ Predicting Airbnb price in Toronto using machine l
 
 
 ## Usage
-Open 3253_ML_TermProject.ipynb file via Google C
-
-[![Screenshot](./screenshot.png)]()
+Open 3253_ML_TermProject.ipynb file via Google Collaborate or Jyputer Notebook
 
 ## License
 MIT License
@@ -36,6 +34,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contributing
-Sixing Cao, Tian 
+Sixing Cao, Tian Gan, Yun Sum Wong, Tiffany Yeung
 
 This project was created by Edmund Wong - [check porfolio](https://wesycool-portfolio.herokuapp.com/)
