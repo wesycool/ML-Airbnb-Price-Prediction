@@ -8,7 +8,7 @@ Predicting Airbnb price in Toronto using machine learning concepts
 
 
 ## Usage
-Open 3253_ML_TermProject.ipynb file via Google Collaborate or Jyputer Notebook
+Open 3253_ML_TermProject.ipynb file via Google Collaborate or Jupyter Notebook
 
 ## License
 MIT License
